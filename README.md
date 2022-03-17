@@ -1,1 +1,1 @@
-# This is a file for instructions regarding the repo 
+# This is a repo for understanding Github 
